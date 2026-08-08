@@ -1,4 +1,5 @@
-
+//Representa una clase hija de Personaje, que es un Guerrero. 
+// Esta subclase hereda de Personaje 
 
 public class Guerrero extends Personaje {
 

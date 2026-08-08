@@ -1,4 +1,6 @@
 
+//Clase Personaje que representa a un personaje en el juego
+// Es la clase padre 
 public class Personaje {
     private int id;
     private String nombre;
